@@ -1,0 +1,93 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 group-title="更新时间",20241010-01-00-27
+https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="💓港澳台",东森新闻01
+http://37.27.111.214:8080/live/20/hls.m3u8
+#EXTINF:-1 group-title="💓港澳台",东森新闻02
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv152
+#EXTINF:-1 group-title="💓港澳台",东森财经
+http://litv.zapi.us.kg/?id=4gtv-4gtv153
+#EXTINF:-1 group-title="💓港澳台",TVBS新闻01
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 group-title="💓港澳台",TVBS新闻02
+http://125.227.210.55:8186/VideoInput/play.ts
+#EXTINF:-1 group-title="💓港澳台",TVBS新闻03
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv072
+#EXTINF:-1 group-title="💓港澳台",TVBS新闻04
+http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv072$LR•IPV4『线路1』
+#EXTINF:-1 group-title="💓港澳台",TVBS新闻05
+mitv://135.148.104.228:19806/bb6082c57bae466b9e6c64ba43f2c1e1$LR•IPV4『线路2』
+#EXTINF:-1 group-title="💓港澳台",TVBS新闻06
+mitv://135.148.104.228:19806/53f80a10fb054d5ab0649a59980025a9$LR•IPV4『线路3』
+#EXTINF:-1 group-title="💓港澳台",TVBS新闻07
+http://free.xiptv.x10.bz/kudou.php?id=78$LR•IPV4『线路4』
+#EXTINF:-1 group-title="💓港澳台",TVBS新闻08
+http://61.221.215.25:8800/hls/9/index.m3u8$LR•IPV4『线路5』
+#EXTINF:-1 group-title="💓港澳台",TVBS新闻09
+http://125.227.210.55:8186/VideoInput/play.ts$LR•IPV4『线路6』
+#EXTINF:-1 group-title="💓港澳台",TVBS新闻10
+http://litv.zapi.us.kg/?id=4gtv-4gtv072$LR•IPV4『线路7』
+#EXTINF:-1 group-title="💓港澳台",TVBS新闻11
+http://ali.hlspull.yximgs.com/live/twlivezozwhzxozhzzzlfhzlzszcnxzfvbhzdzwzfzzdsswvtvbsxw.flv$LR•IPV4『线路8』
+#EXTINF:-1 group-title="💓港澳台",TVBS新闻12
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejojwhjxojhjjjlfhjljsjcnxjfvbhjdjwjfjjdsswvtvbsxw.flv$LR•IPV4『线路9』
+#EXTINF:-1 group-title="💓港澳台",TVBS亚洲01
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="💓港澳台",TVBS亚洲02
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 group-title="💓港澳台",TVBS欢乐01
+http://37.27.111.214:8080/live/24/hls.m3u8
+#EXTINF:-1 group-title="💓港澳台",TVBS欢乐02
+http://litv.zapi.us.kg/?id=4gtv-4gtv068
+#EXTINF:-1 group-title="💓港澳台",TVBS欢乐03
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8532/.m3u8$LR•IPV4『线路1』
+#EXTINF:-1 group-title="💓港澳台",TVBS欢乐04
+http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv068$LR•IPV4『线路2』
+#EXTINF:-1 group-title="💓港澳台",TVBS欢乐05
+http://litv.zapi.us.kg/?id=4gtv-4gtv068$LR•IPV4『线路3』
+#EXTINF:-1 group-title="💓港澳台",TVBS欢乐06
+http://37.27.111.214:8080/live/24/hls.m3u8$LR•IPV4『线路4』
+#EXTINF:-1 group-title="💓港澳台",中天新闻
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv009
+#EXTINF:-1 group-title="💓港澳台",中天娱乐
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 group-title="💓港澳台",民视台湾
+http://litv.zapi.us.kg/?id=4gtv-4gtv001
+#EXTINF:-1 group-title="💓港澳台",民视影剧
+http://litv.zapi.us.kg/?id=litv-ftv09
+#EXTINF:-1 group-title="💓港澳台",三立新闻
+http://ali.hlspull.yximgs.com/live/tboxprohmcyoywqqubqdfqfvchtquqxcqxvcbsqfsdxcbmqsllivexw.flv
+#EXTINF:-1 group-title="💓港澳台",年代新闻
+http://ali.hlspull.yximgs.com/live/tboxprooqevdyscvbudloqlnsfqewtqudvbbqxfqnqlvcqdqdnqxw.flv
+#EXTINF:-1 group-title="💓港澳台",非凡新闻
+http://ali.hlspull.yximgs.com/live/tboxprosqtnfqqoqdcbfcxvqfuuqqweqqqsqyuhhdqsqhqynffxw.flv
+#EXTINF:-1 group-title="💓港澳台",闽壹新闻
+http://ali.hlspull.yximgs.com/live/tboxpromqfoyqvqsdvbnweqtquqqxqcvfqqsqfhfqddqqlhtbchyxw.flv
+#EXTINF:-1 group-title="💓港澳台",民视新闻
+http://ali.hlspull.yximgs.com/live/tboxprocnbvqfhdquqqvcbnqftuqscxqfqeqyhqqvqfmsxw.flv
+#EXTINF:-1 group-title="💓港澳台",台视新闻
+http://ali.hlspull.yximgs.com/live/tboxproncqqtqqudtqlqcvbcvntqqqsfwetqfvcbcxvdqbqfflvcqtsxw.flv
+#EXTINF:-1 group-title="💓港澳台",TVBS亚洲01
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$LR•IPV4『线路1』
+#EXTINF:-1 group-title="💓港澳台",TVBS亚洲02
+http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?$LR•IPV4『线路2』
+#EXTINF:-1 group-title="💓港澳台",TVBS亚洲03
+http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$LR•IPV4『线路3』
+#EXTINF:-1 group-title="💓港澳台",TVBS亚洲04
+http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8$LR•IPV4『线路4』
+#EXTINF:-1 group-title="💓港澳台",TVBS亚洲05
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$LR•IPV4『线路5』
+#EXTINF:-1 group-title="💓港澳台",TVBS亚洲06
+http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$LR•IPV4『线路6』
+#EXTINF:-1 group-title="💓港澳台",TVBS亚洲07
+http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8$LR•IPV4『线路7』
+#EXTINF:-1 group-title="💓港澳台",TVBS亚洲08
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
+#EXTINF:-1 group-title="💓港澳台",TVBS亚洲09
+http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$LR•IPV4『线路9』
+#EXTINF:-1 group-title="💓港澳台",TVBS亚洲10
+http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?$LR•IPV4『线路10』
+#EXTINF:-1 group-title="💓港澳台",TVBS亚洲11
+http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$LR•IPV4『线路11』
+#EXTINF:-1 group-title="💓港澳台",TVBS亚洲12
+P2p://generationnexxxt.com:19806/7e8e3f90c0434b8d8c0e423e5cb9fbfb$LR•IPV4『线路12』
